@@ -84,10 +84,47 @@
     -in the right place
 - WRONG ENVIRONMENT - PYTHON 2 SOMEHOW
 - widgets installed - install widgits in kernal
+- using the data frame that has artifact without images removed
+  - becasue we what to see what artifiacts are important enough to have pictures
+- we will group by
+  - group1 (general caregory)
+    - a bit too broad
+    - ex. aviation=anything from stamps to propellors
+  - category1
+    - a bit more specific and could be better to understand
+- removing requirement to show every row, just showing every column
+- trying to figure out how to graph our findings (most common categories)
+  - proportion within category and data as a whole
+- bubble chart (yay)
+  - category
+  - number of items in category
+  - percentage of category
+- we want it to list the number of every category, not the amount
+  - ex. 50 in aviation, not aviation 50 times
+- 30 different groups, quite reasonable to visualise (phew)
+- calculate percentage
+- cannot name the index row as it keeps saying it is index, and that is not good
+  - did it somehow
+- for our chart, we need to import and install plotly
+- the graph is a little small/thin, but we will make it look nicer
+  - the data is weird for this
+  - resizing to make it look more like a chart
+- going to a bar graph as it will look nicer and show the data better
+  - more concise and closer together
+- dominante theme is aviation as it has the msot, and is the brightest colour
+- grouping by category to show
+- hierarchy of objects when dsiplayed in a tree map
+  - what do we value?
+  - commemorative is at top, and miscellaneous is high up but what is This
+- talk about archives and labelling processes
+- eliminated single digit ones
+- not as much aviation in the tree graph
+- 
 
 
 ---
 #### RANDOM NOTES
 - DID MY PRACITUM AT INGENIUM
-- chantal would not have thought of user input point where you can find new things for yourself and new interests
 - see what museum likes and dislikes
+- interesting to see how things are grouped and what if they cross over into different groups?
+-
