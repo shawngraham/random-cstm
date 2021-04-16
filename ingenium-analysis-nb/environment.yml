@@ -1,10 +1,9 @@
-name: base
+name: ingenium-environment
 channels:
-  - defaults
+  - conda-forge
 dependencies:
-  - conda
-  - python=3.8
-  - python.app
-  - notebook
   - ipywidgets
-prefix: /usr/local/Caskroom/miniconda/base
+  - numpy
+  - plotly
+  - pandas
+  - requests
