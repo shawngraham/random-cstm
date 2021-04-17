@@ -1,0 +1,8 @@
+voila==0.2.7
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git@4b5d6d3387656a0d01b14c2ce0107e34f774377a
+ipywidgets==7.6.3
+notebook==6.3.0
+numpy==1.20.2
+pandas==1.2.3
+requests==2.25.1
+plotly==4.14.3
